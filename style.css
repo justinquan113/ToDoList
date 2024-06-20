@@ -1,0 +1,47 @@
+body {
+    background-color: beige;
+}
+
+h1 {
+    color:green;
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.line {
+    text-align: center;
+    color: lightblue;
+}
+
+.remove{
+    color: brown;
+    text-align: center;
+}
+
+#input{
+    width: 60%;
+    border: 2px solid black;
+}
+
+#list{
+    text-align: center;
+}
+
+.list-styling {
+   
+    font-size: 20px;
+    width: 70%;
+    background-color: lightblue;
+    margin: 10px auto 20px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: 2px solid black
+   
+    
+}
+
+.remove-button {
+    float: right;
+}
+
